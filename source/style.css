@@ -1,0 +1,24 @@
+#navbar {
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+#navbar-container {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+#parameter {
+  margin: 20px 10%;
+}
+
+#array {
+  margin: 20px 10%;
+}
+
+#slider {
+  max-width: 250px;
+  float: right;
+  vertical-align: middle;
+  margin-top: 8px;
+}
